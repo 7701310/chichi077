@@ -2,7 +2,7 @@ import random
 
 
 WELCOME_MESSAGE = "猜數字"
-MAX_ATTEMPTS = 5
+MAX_ATTEMPTS = 3
 
 
 def play_game():
